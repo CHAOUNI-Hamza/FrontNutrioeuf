@@ -1,0 +1,2 @@
+1 - vuejs3 carousel : https://ismail9k.github.io/vue3-carousel/examples.html#basic-example
+2 - AOS / Animate On Scroll Library

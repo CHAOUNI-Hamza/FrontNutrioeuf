@@ -1,0 +1,15 @@
+<template>
+  <router-view/>
+</template>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap');
+body {
+  font-family: 'Poppins', sans-serif;
+}
+</style>
+<script>
+export default {
+  
+}
+</script>
