@@ -9,7 +9,7 @@
       <div class="row justify-content-md-center">
         <div class="col-md-10">
           <div class="row">
-            <div v-for="test in tests" class="col-xxl-4 col-lg-4 col-md-6 col-sm-12 text-center" data-aos="fade-up">
+            <div  class="col-xxl-4 col-lg-4 col-md-6 col-sm-12 text-center" data-aos="fade-up">
           <div class="card" style="width: 100%">
   <img src="https://ptitgone-oeufs.fr/wp-content/uploads/2017/02/bo%C3%AEte-de-6-au-sol.jpg" class="card-img-top" alt="">
   <div class="card-body">
